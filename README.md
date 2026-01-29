@@ -51,4 +51,4 @@ The system enables reliable Over-The-Air (OTA) firmware updates between two STM3
 6. If failure → rollback to previous version
 
 ## Author
-**Lovzy**
+**SaiMurali**
